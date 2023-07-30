@@ -1,0 +1,98 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #e4dfdf;
+  margin: 0;
+}
+
+div.main-div {
+  text-align: center;
+}
+
+div.links-to-other-pages {
+  display: inline-block;
+  padding-right: 20px;
+  /* border: 1px solid black; */
+  color: rgb(227, 90, 113);
+}
+
+span.recommended-products {
+  font-size: 1.8em;
+  color: black;
+  font-weight: bold;
+  font-style: italic;
+}
+
+li.list-products {
+    margin: 8px 0;
+
+}
+
+ul.list-to-ecommerce-website {
+  padding-left: 50px;
+}
+
+li a {
+  color:rgb(212, 40, 69);
+}
+
+ul {
+  padding-left: 120px;
+}
+
+span {
+  color: gray;
+  padding-right: 20px;
+}
+
+div.links-to-other-pages a {
+  text-decoration: none;
+  color: rgb(212, 40, 69);
+}
+
+div.paragraph-width {
+  width: 900px;
+  
+  text-align: center;
+  margin-left: 160px;
+}
+
+div.display-image {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.main-display-image-of-woman {
+  width: 626px;
+  height: 360px;
+}
+
+div.main-image-container {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+div.image-container {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+div.inscriptions-onimage {
+  position: absolute;
+  top: 10px;
+  border: 1px solid black;
+  padding: 4px;
+  color: white;
+  background: black;
+} */
+
+
+/div.recommended-products-list {
+  float: left;
+  width: 30%;
+}
+
